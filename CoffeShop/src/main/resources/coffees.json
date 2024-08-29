@@ -1,0 +1,44 @@
+
+   [
+    {
+      "coffeeName": "Macchiato",
+      "coffeeDescription": "Espresso with a dash of milk foam",
+      "coffeeIngredients": {
+        "espresso": "30ml",
+        "milk foam": "A dash"
+      }
+    },
+    {
+      "coffeeName": "Espresso",
+      "coffeeDescription": "Strong black coffee",
+      "coffeeIngredients": {
+        "espresso": "30ml"
+      }
+    },
+    {
+      "coffeeName": "Latte",
+      "coffeeDescription": "Espresso with steamed milk",
+      "coffeeIngredients": {
+        "espresso": "30ml",
+        "steamed milk": "150ml"
+      }
+    },
+    {
+      "coffeeName": "Cappuccino",
+      "coffeeDescription": "Espresso with equal parts of steamed and foamed milk",
+      "coffeeIngredients": {
+        "espresso": "30ml",
+        "steamed milk": "80ml",
+        "foamed milk": "80ml"
+      }
+    },
+    {
+      "coffeeName": "Americano",
+      "coffeeDescription": "Espresso with hot water",
+      "coffeeIngredients": {
+        "espresso": "30ml",
+        "hot water": "120ml"
+      }
+    }
+  ]
+
